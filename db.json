@@ -1,0 +1,74 @@
+{
+  "places": [
+    {
+      "id": 1,
+      "country": "Brasil",
+      "flag": "https://restcountries.eu/data/bra.svg",
+      "local": "Rio de Janeiro",
+      "goal": "04/2022"
+    },
+    {
+      "id": 2,
+      "local": "Buenos Aires",
+      "goal": "07/2022",
+      "country": "Argentina",
+      "flag": "https://restcountries.eu/data/arg.svg"
+    },
+    {
+      "id": 5,
+      "local": "Curitiba",
+      "goal": "10/2021",
+      "country": "Brasil",
+      "flag": "https://restcountries.eu/data/bra.svg"
+    },
+    {
+      "id": 6,
+      "local": "Outback",
+      "goal": "05/2030",
+      "country": "Austrália",
+      "flag": "https://restcountries.eu/data/aus.svg"
+    },
+    {
+      "id": 7,
+      "local": "Toronto",
+      "goal": "05/2022",
+      "country": "Canadá",
+      "flag": "https://restcountries.eu/data/can.svg"
+    },
+    {
+      "id": "3a5f3e9a-42be-4e03-91bc-d66473d9d5d2",
+      "local": "Toronto",
+      "goal": "06/2022",
+      "country": "Canadá",
+      "flag": "https://restcountries.eu/data/can.svg"
+    },
+    {
+      "id": "229167e5-acfa-4adb-9ed5-9d09c912eba6",
+      "local": "Toronto",
+      "goal": "05/2030",
+      "country": "Canadá",
+      "flag": "https://restcountries.eu/data/can.svg"
+    },
+    {
+      "id": "be41cba7-68a5-4491-8635-725cb75ecb2f",
+      "local": "Paris",
+      "goal": "05/2030",
+      "country": "França",
+      "flag": "https://restcountries.eu/data/fra.svg"
+    },
+    {
+      "id": "132bd80d-3294-450a-8115-152b9783b1e4",
+      "local": "Berlim",
+      "goal": "05/2031",
+      "country": "Rússia",
+      "flag": "https://restcountries.eu/data/rus.svg"
+    },
+    {
+      "id": "418fc3ce-32df-452f-a1ba-0e7dfe3c998a",
+      "local": "Gelo",
+      "goal": "05/2025",
+      "country": "Noruega",
+      "flag": "https://restcountries.eu/data/nor.svg"
+    }
+  ]
+}
