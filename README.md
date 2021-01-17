@@ -21,7 +21,8 @@ Após isso abra outro terminal e execute.
 Com esse comando você irá executar o projeto.
 Ele será aberto automáticamente, caso não abra, digite http://localhost:3000 no seu navegador.
 
-
+![Home](https://user-images.githubusercontent.com/62616463/104857807-bdd6bd00-58f9-11eb-8773-cd0795464cb6.png)
+![Editing](https://user-images.githubusercontent.com/62616463/104857810-cc24d900-58f9-11eb-8efe-44976c7c791c.png)
 
 ## 🛠 Ferramentas
 
